@@ -1,0 +1,26 @@
+{
+  "name": "iscroll",
+  "version": "5.1.0",
+  "authors": [
+    "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
+  , "Ben Sack <ben@sack.io>"
+  ],
+  "description": "Smooth scrolling for the web (packaged for bower)",
+  "main": "build/iscroll.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "scrolling",
+    "carousel",
+    "zoom",
+    "iphone",
+    "android",
+    "mobile",
+    "desktop"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sackio/iscroll",
+  "ignore": [
+  ]
+}
